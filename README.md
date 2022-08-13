@@ -22,7 +22,7 @@ def function():
 function()
 ```
 
-```bash
+```
 Function "function_name" took X seconds.
 ```
 

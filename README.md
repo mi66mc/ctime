@@ -22,7 +22,9 @@ def function():
 function()
 ```
 
-`Function "function_name" took X seconds.`
+```bash
+Function "function_name" took X seconds.
+```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

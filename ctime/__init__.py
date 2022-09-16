@@ -1,5 +1,4 @@
 import time
-# ctime
 
 def ctime(simplified=True, printable=True):
     def decorator(f):
